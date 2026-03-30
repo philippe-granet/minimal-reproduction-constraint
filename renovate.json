@@ -1,4 +1,4 @@
 {
   "extends": ["config:best-practices"],
-  "npmrc": "engine-strict=true\nbefore=2025-06-01T00:00:00Z"
+  "npmrcMerge": true
 }
